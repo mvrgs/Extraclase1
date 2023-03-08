@@ -186,6 +186,7 @@ public class Controller {
 
     @FXML
     private void dividir(){
+
         firstValue();
         secondValue();
         if (valor1 == 0 || valor2 == 0 || (valor1 == 0 && valor2 == 0)){
